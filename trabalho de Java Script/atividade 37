@@ -1,0 +1,14 @@
+/*
+37. Quantas vezes a mensagem "Olá" será impressa? 
+*/
+
+for (let i = 0; i < 5; i++) { 
+    console.log("Olá"); 
+} 
+
+/*
+A) 4 vezes  
+B) 5 vezes  (correta)
+C) 6 vezes  
+D) Infinitas vezes 
+*/
