@@ -1,0 +1,22 @@
+/*
+33. Analise o switch abaixo. Se o valor de opcao for o número 2, o que será impresso?  
+*/
+
+let opcao = 2;
+switch (opcao) { 
+case "2":
+    console.log("Opção String"); 
+    break;
+case 2: 
+    console.log("Opção Número"); 
+    break; 
+    default: 
+    console.log("Outra Opção"); 
+} 
+
+/*
+A) Opção String  
+B) Opção Número  (correto)
+C) Outra Opção  
+D) O código dará erro
+*/
